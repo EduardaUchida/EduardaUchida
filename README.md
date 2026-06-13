@@ -70,16 +70,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://www.linkedin.com/in/eduarda-u-b985b219b/"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
