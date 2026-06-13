@@ -50,7 +50,7 @@
 
 ---
 
-## 🔥 Streak
+## 🔥 Fluxo
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EduardaUchida&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://www.linkedin.com/in/eduarda-u-b985b219b/"/>
 
 </div>
 
