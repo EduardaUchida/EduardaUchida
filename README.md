@@ -89,5 +89,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/EduardaUchida/EduardaUchida/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+
+## 📈 Activity Graph
+
+[![Eduarda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaUchida&bg_color=000000&color=D4AF37&line=FFD700&point=D4AF37&area=true&hide_border=true)](https://github.com/EduardaUchida)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardaUchida&theme=github_dark" /> 
+
+
+
 </div>
 
