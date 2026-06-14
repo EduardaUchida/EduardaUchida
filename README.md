@@ -88,7 +88,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EduardaUchida/EduardaUchida/output/github-snake.svg" alt="Snake animation" />
-</p>
+</p> 
 
 </div>
 
