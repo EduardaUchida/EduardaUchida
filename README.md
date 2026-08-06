@@ -35,19 +35,6 @@
 <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaUchida&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaUchida&layout=compact&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37"/>
-
-</div>
-
 ---
 
 ## 🔥 Fluxo
