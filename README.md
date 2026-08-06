@@ -15,8 +15,6 @@
 - 💻 Experiência com **Service Desk, Active Directory, Azure e Microsoft 365**
 - 🎯 Em busca de crescimento na área de Tecnologia
 
----
-
 ## 🚀 Tecnologias que utilizo e estudo
 
 <div align="center">
@@ -35,7 +33,6 @@
 <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
----
 
 ## 🔥 Fluxo
 
@@ -45,8 +42,6 @@
 
 </div>
 
----
-
 ## 📈 Atividade
 
 <div align="center">
@@ -54,8 +49,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardaUchida&bg_color=000000&color=D4AF37&line=D4AF37&point=FFD700&area=true&hide_border=true"/>
 
 </div>
-
----
 
 ## 📫 Contato
 
@@ -66,8 +59,6 @@
 </a>
 
 </div>
-
----
 
 <div align="center">
 
