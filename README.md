@@ -42,14 +42,6 @@
 
 </div>
 
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardaUchida&bg_color=000000&color=D4AF37&line=D4AF37&point=FFD700&area=true&hide_border=true"/>
-
-</div>
-
 ## 📫 Contato
 
 <div align="center">
